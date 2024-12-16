@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-Bluesky-%230285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/tiagolima.me)
 [![](https://img.shields.io/badge/-X_Profile-black?style=flat&logo=x&logoColor=white)](https://twitter.com/TiagoVercosa_)
 [![](https://img.shields.io/badge/-Mastodon-%236364FF?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@vercosa)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tiago.vercosa@outlook.com)
+[![](https://img.shields.io/badge/-Outlook-1E90FF?style=flat-square&logo=MicrosoftOutlook&logoColor=white)](mailto:tiago.vercosa@outlook.com)
 [![](https://img.shields.io/badge/-Proton%20Mail-%236D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:vercosa@proton.me)
 
 📖 I graduated in Physical and MSc in Applied Physical at [UFRPE](http://www.ufrpe.br/),
