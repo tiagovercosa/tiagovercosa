@@ -1,10 +1,10 @@
-## Hello everyone, I'm Tiago Verçosa!
+### Hello, I'm Tiago
 
-
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/TiagoVercosa_)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@vercosa)
+[![](https://img.shields.io/badge/-Bluesky-%230285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/tiagolima.me)
+[![](https://img.shields.io/badge/-X_Profile-black?style=flat&logo=x&logoColor=white)](https://twitter.com/TiagoVercosa_)
+[![](https://img.shields.io/badge/-Mastodon-%236364FF?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@vercosa)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tiago.vercosa@outlook.com)
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vercosa@proton.me)
+[![](https://img.shields.io/badge/-Proton%20Mail-%236D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:vercosa@proton.me)
 
 📖 I graduated in Physical and MSc in Applied Physical at [UFRPE](http://www.ufrpe.br/),
 and student PhD Material Science at [UFPB](https://www.ufpb.br/).
@@ -17,3 +17,13 @@ and student PhD Material Science at [UFPB](https://www.ufpb.br/).
 
 📧 Feel free to contact me.
 
+<p>
+  <img alt="Shell Script" src="https://img.shields.io/badge/-Shell Script-2C3840?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white">
+  <img alt="C Lang" src="https://img.shields.io/badge/-C%20lang-%23A8B9CC?style=flat&logo=c&logoColor=black">
+  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-%23008080?style=flat&logo=latex&logoColor=white">
+</p>
+
+[![George's github stats](https://github-readme-stats.vercel.app/api?username=tiagovercosa&show_icons=true&theme=algolia&border_color=2C3E50)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovercosa&layout=compact&size_weight=0&count_weight=1&theme=algolia&border_color=2C3E50)](https://github.com/anuraghazra/github-readme-stats)
