@@ -24,6 +24,12 @@ and student PhD Material Science at [UFPB](https://www.ufpb.br/).
   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-%23008080?style=flat&logo=latex&logoColor=white">
 </p>
 
-[![George's github stats](https://github-readme-stats.vercel.app/api?username=tiagovercosa&show_icons=true&theme=algolia&border_color=2C3E50)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/tiagovercosa">
+  <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagovercosa&show_icons=true&theme=algolia&border_color=2C3E50"/>
+  <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovercosa&layout=compact&size_weight=0&count_weight=1&theme=algolia&border_color=2C3E50"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovercosa&layout=compact&size_weight=0&count_weight=1&theme=algolia&border_color=2C3E50)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
