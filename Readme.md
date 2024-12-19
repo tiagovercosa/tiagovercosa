@@ -1,7 +1,7 @@
 ## Hello, I'm Tiago
   
 [![](https://img.shields.io/badge/-Bluesky-%230285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/tiagolima.me)
-[![](https://img.shields.io/badge/-X_Profile-black?style=flat&logo=x&logoColor=white)](https://twitter.com/TiagoVercosa_)
+[![](https://img.shields.io/badge/-X_Profile-black?style=flat&logo=x&logoColor=white)](https://twitter.com/tiagvlima)
 [![](https://img.shields.io/badge/-Mastodon-%236364FF?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@vercosa)
 [![](https://img.shields.io/badge/-Outlook-1E90FF?style=flat-square&logo=MicrosoftOutlook&logoColor=white)](mailto:tiago.vercosa@outlook.com)
 [![](https://img.shields.io/badge/-Proton%20Mail-%236D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:vercosa@proton.me)
