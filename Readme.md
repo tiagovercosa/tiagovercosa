@@ -1,19 +1,17 @@
-# I'm Tiago Lima
-I graduated in Physics and have a master's degree in Applied Physics from the Universidade Federal Rural de Pernambuco ([UFRPE](http://www.ufrpe.br/)). Currently, I'm a PhD Student in Physics at the Universidade de Brasília ([UnB](https://www.unb.br/)), Brazil.
+# Hi there! 👋🏼
 
-- 💻 I like programming and working on data science projects using Python and R.
-- ⚛️  I work in science physical projects for education and research using Python.
-- 📑 You can see my [Lattes Curriculum](http://lattes.cnpq.br/2589002626770110).
-- 📧 Feel free to contact me.
+> _He has a petty mind who thinks it rests on the memories of formulas._
 
-## Currently Learning
+I'm Tiago. I hold a degree in Physics and a Master’s in Applied Physics from the Federal Rural University of Pernambuco ([UFRPE](http://www.ufrpe.br/)). I am currently a PhD student in Physics at the University of Brasília ([UnB](https://www.unb.br/)), Brazil. My research focuses on molecular dynamics and density functional theory (DFT) applied to the study of nanomaterials, investigating their structural, electronic, and dynamical properties through advanced computational simulations.
 
-<div align="center">
-  <a href="https://github.com/tiagovercosa">
-  <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagovercosa&show_icons=true&theme=algolia&border_color=2C3E50"/>
-  <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovercosa&layout=compact&size_weight=0&count_weight=1&theme=algolia&border_color=2C3E50"/>
-</div>
+I am a member of the Laboratório de Computação em Ciência de Materiais ([LCCMat](lccmat.unb.br)), a leading high-performance computing infrastructure dedicated to the simulation and characterization of nanomaterials and biomaterials at UnB. At LCCMat, I contribute to collaborative research aimed at understanding and designing new 2D materials and carbon allotropes for applications in energy conversion, storage, and optoelectronics. My work involves the development and use of advanced simulation methodologies to achieve realistic and accurate analysis of novel material properties.
 
-[![](https://img.shields.io/badge/-Bluesky-%230285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/tiagolima.me)
-[![](https://img.shields.io/badge/-X_Profile-black?style=flat&logo=x&logoColor=white)](https://twitter.com/tiagvlima)
-[![](https://img.shields.io/badge/-Proton%20Mail-%236D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:vercosa@proton.me)
+- Passionate about programming and developing physics simulations, especially using **Python**, **C**, and **C++**
+- Interested in topics such as **Statistical Mechanics**, **Quantum Mechanics**, **Condensed Matter Physics**, **Mathematical Physics**, and **LaTeX**, as well as the practical applications of open-source tools
+- Enthusiast of advanced knowledge management systems, including **Second Brain**, **(Neo)Vim**, and **Obsidian** for research productivity
+- My academic profile is available on my [Lattes Curriculum](http://lattes.cnpq.br/2589002626770110).
+
+### Currently Learning
+I am currently studying **density functional theory (DFT)**, **molecular dynamics (MD)**, and **quantum theory** to deepen my understanding of the fundamental behaviors of nanomaterials. Alongside these research topics, I am advancing my skills in programming languages such as **C** and **C++**, which are essential for developing efficient computational simulations in physics.
+
+Feel free to contact me!
